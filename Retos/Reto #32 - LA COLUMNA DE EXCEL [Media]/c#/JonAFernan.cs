@@ -17,7 +17,6 @@ class Program
         Console.WriteLine(ColumnNumber("AaA")); // Error. Wrong column format.
     }
 
-
    static string ColumnNumber(string columnName)
    {
         const int alphabetLength = 26;
